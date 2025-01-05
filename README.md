@@ -2,7 +2,6 @@
 - 💼 I'm a HW Design Verification Engineer, [@Siemens](https://www.sw.siemens.com/en-US/)
 - 🤖 I’m interested in Electronics and Computer Architecture
 - 🌱 I’m currently learning about everything 🤣
-- 🥅 2024 Goals: [In Progress]
 
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-sehli&show_icons=true&theme=transparent)
