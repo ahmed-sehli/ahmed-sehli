@@ -8,10 +8,12 @@
 
 
 
+<!---
 <p align="center"> 
   <b>Visitor Count<br>
   <img src="https://profile-counter.glitch.me/ahmed-sehli/count.svg" />
 </p>
+--->
 
 <!---
 ahmed-sehli/ahmed-sehli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
